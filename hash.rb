@@ -41,6 +41,20 @@
 # puts expensive_things # print out an array of items more than $50
 
 
+
+
+
+cart_item_prices = [52.23, 6.97, 26.95, 129.99]
+
+total = $50
+
+cart_item_prices.each do |price|
+  total += price # total = total + price 
+end
+
+puts total
+
+
 # wall_clock = 48.23
 # pop_socket = 6.97
 # spiralizer = 26.95
