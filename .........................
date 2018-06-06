@@ -1,0 +1,13 @@
+cart_item_prices = [48:23, 6:97, 26:95, 129:99]
+
+count = 1 
+
+cart_item_prices.each do |price| #.each do | | iterates meaning goes through each element in #the array in order. in this case I'm calling each element "price",but you can call it #anything 
+puts "item 
+
+
+
+
+
+
+cart_item_prices = [48.23,6.97,26.95,129.99]
