@@ -12,3 +12,7 @@ puts "item
 
 cart_item_prices = [48.23,6.97,26.95,129.99]
 
+tax = [] #array that will hold tax price of each item
+
+count = 1
+cart_item_prices.each do |price|
