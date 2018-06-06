@@ -11,3 +11,4 @@ puts "item
 
 
 cart_item_prices = [48.23,6.97,26.95,129.99]
+
