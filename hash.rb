@@ -29,16 +29,16 @@
 
 
 
-cart_item_prices = [48.25, 6.97, 26.95, 129.99]
-expensive_things = [] # makes an array called expensive_things that will hold items more                                         #expensive than $50
+# cart_item_prices = [48.25, 6.97, 26.95, 129.99]
+# expensive_things = [] # makes an array called expensive_things that will hold items more                                         #expensive than $50
 
-cart_item_prices.each do |price|
-  if price >=$50
-    expensive_things << price #inputs price that is more than 50$ into the array                                                      expensive_things
-  end
-end
+# cart_item_prices.each do |price|
+#   if price >=$50
+#     expensive_things << price #inputs price that is more than 50$ into the array                                                      expensive_things
+#   end
+# end
 
-puts expensive_things # print out an array of items more than $50
+# puts expensive_things # print out an array of items more than $50
 
 
 # wall_clock = 48.23
